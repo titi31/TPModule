@@ -4,7 +4,7 @@
   "description": "",
   "main": "fuse.js",
   "dependencies": {
-    "terser": "^4.3.9",
+    "terser": "^4.8.1",
     "uglify-js": "^3.6.3"
   },
   "devDependencies": {
